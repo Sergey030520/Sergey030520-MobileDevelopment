@@ -1,0 +1,5 @@
+ru/mirea/makarov/clickbuttons/BuildConfig.java
+ ru.mirea.makarov.clickbuttons.BuildConfig
+ru/mirea/makarov/clickbuttons/MainActivity.java
+ ru.mirea.makarov.clickbuttons.MainActivity
+ ru.mirea.makarov.clickbuttons.MainActivity$1

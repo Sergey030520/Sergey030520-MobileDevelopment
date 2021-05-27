@@ -1,0 +1,4 @@
+ru/mirea/makarov/notificationapp/BuildConfig.java
+ ru.mirea.makarov.notificationapp.BuildConfig
+ru/mirea/makarov/notificationapp/MainActivity.java
+ ru.mirea.makarov.notificationapp.MainActivity

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="ru.mirea.makarov.mireaproject1.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="ru.mirea.makarov.mireaproject1.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="ru.mirea.makarov.mireaproject1.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_brouser"
+        android:name="ru.mirea.makarov.mireaproject1.BrouserFragment"
+        android:label="fragment_brouser"
+        tools:layout="@layout/fragment_brouser" />
+    <fragment
+        android:id="@+id/nav_calculator"
+        android:name="ru.mirea.makarov.mireaproject1.CalculatorFragment"
+        android:label="fragment_calculator"
+        tools:layout="@layout/fragment_calculator" />
+    <fragment
+        android:id="@+id/nav_music"
+        android:name="ru.mirea.makarov.mireaproject1.MusicFragment"
+        android:label="fragment_music"
+        tools:layout="@layout/fragment_music" />
+    <fragment
+        android:id="@+id/nav_audio_record"
+        android:name="ru.mirea.makarov.mireaproject1.AudioRecordFragment"
+        android:label="fragment_audio_record"
+        tools:layout="@layout/fragment_audio_record" />
+    <fragment
+        android:id="@+id/nav_sensor_status"
+        android:name="ru.mirea.makarov.mireaproject1.SensorStatusFragment"
+        android:label="fragment_sensor_status"
+        tools:layout="@layout/fragment_sensor_status" />
+    <fragment
+        android:id="@+id/nav_createImage"
+        android:name="ru.mirea.makarov.mireaproject1.CreateImageFragment"
+        android:label="fragment_create_image"
+        tools:layout="@layout/fragment_create_image" />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="ru.mirea.makarov.mireaproject1.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="ru.mirea.makarov.mireaproject1.HistoryFragment"
+        android:label="fragment_history"
+        tools:layout="@layout/fragment_history" />
+</navigation>

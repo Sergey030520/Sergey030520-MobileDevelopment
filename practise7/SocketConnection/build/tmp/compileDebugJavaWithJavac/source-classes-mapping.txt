@@ -1,0 +1,8 @@
+ru/mirea/makarov/practise7/BuildConfig.java
+ ru.mirea.makarov.practise7.BuildConfig
+ru/mirea/makarov/practise7/SocketUtils.java
+ ru.mirea.makarov.practise7.SocketUtils
+ru/mirea/makarov/practise7/MainActivity.java
+ ru.mirea.makarov.practise7.MainActivity
+ ru.mirea.makarov.practise7.MainActivity$1
+ ru.mirea.makarov.practise7.MainActivity$GetTimeTask

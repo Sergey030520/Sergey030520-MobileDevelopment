@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ru.mirea.makarov.mireaproject1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:4:5-65
+11-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:4:22-62
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:5:5-70
+12-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:5:22-68
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:6:5-81
+13-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:7:5-80
+14-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:7:22-77
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:8:5-67
+15-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:8:22-64
+16
+17    <application
+17-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:10:5-46:19
+18        android:allowBackup="true"
+18-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:11:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.3.1] C:\Users\Malip\.gradle\caches\transforms-2\files-2.1\b234a824af7fd98a5c54fc0522824a91\core-1.3.1\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:12:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:13:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:14:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:15:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.MireaProject1" >
+26-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:16:9-51
+27        <service
+27-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:17:9-20:47
+28            android:name="ru.mirea.makarov.mireaproject1.RecordService"
+28-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:18:13-42
+29            android:enabled="true"
+29-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:19:13-35
+30            android:exported="true" />
+30-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:20:13-36
+31        <service
+31-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:21:9-24:39
+32            android:name="ru.mirea.makarov.mireaproject1.PlayerService"
+32-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:22:13-42
+33            android:enabled="true"
+33-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:23:13-35
+34            android:exported="true" />
+34-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:24:13-36
+35
+36        <activity
+36-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:26:9-36:20
+37            android:name="ru.mirea.makarov.mireaproject1.MainActivity"
+37-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:27:13-41
+38            android:configChanges="orientation|keyboardHidden|screenSize"
+38-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:28:13-74
+39            android:label="@string/app_name"
+39-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:29:13-45
+40            android:theme="@style/Theme.MireaProject1.NoActionBar" >
+40-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:30:13-67
+41            <intent-filter>
+41-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:31:13-35:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:32:17-69
+42-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:32:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:34:17-77
+44-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:34:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <provider
+48-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:37:9-45:20
+49            android:name="androidx.core.content.FileProvider"
+49-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:38:13-62
+50            android:authorities="ru.mirea.makarov.mireaproject1.fileprovider"
+50-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:39:13-78
+51            android:exported="false"
+51-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:40:13-37
+52            android:grantUriPermissions="true" >
+52-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:41:13-47
+53            <meta-data
+53-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:42:13-44:52
+54                android:name="android.support.FILE_PROVIDER_PATHS"
+54-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:43:17-67
+55                android:resource="@xml/filepath" />
+55-->C:\Users\Malip\AndroidStudioProjects\MireaProject1\app\src\main\AndroidManifest.xml:44:17-49
+56        </provider>
+57    </application>
+58
+59</manifest>

@@ -1,0 +1,6 @@
+ru/mirea/makarov/resultactivity/DataActivity.java
+ ru.mirea.makarov.resultactivity.DataActivity
+ru/mirea/makarov/resultactivity/BuildConfig.java
+ ru.mirea.makarov.resultactivity.BuildConfig
+ru/mirea/makarov/resultactivity/MainActivity.java
+ ru.mirea.makarov.resultactivity.MainActivity

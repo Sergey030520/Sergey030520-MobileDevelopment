@@ -1,0 +1,6 @@
+ru/mirea/makarov/loadermanger/BuildConfig.java
+ ru.mirea.makarov.loadermanger.BuildConfig
+ru/mirea/makarov/loadermanger/MyLoader.java
+ ru.mirea.makarov.loadermanger.MyLoader
+ru/mirea/makarov/loadermanger/MainActivity.java
+ ru.mirea.makarov.loadermanger.MainActivity

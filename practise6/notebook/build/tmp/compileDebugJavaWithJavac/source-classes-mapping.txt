@@ -1,0 +1,6 @@
+ru/mirea/makarov/notebook/BuildConfig.java
+ ru.mirea.makarov.notebook.BuildConfig
+ru/mirea/makarov/notebook/MainActivity.java
+ ru.mirea.makarov.notebook.MainActivity
+ ru.mirea.makarov.notebook.MainActivity$1
+ ru.mirea.makarov.notebook.MainActivity$1$1

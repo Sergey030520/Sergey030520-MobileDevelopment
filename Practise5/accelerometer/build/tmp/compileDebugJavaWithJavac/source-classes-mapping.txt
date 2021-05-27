@@ -1,0 +1,4 @@
+ru/mirea/makarov/accelerometer/BuildConfig.java
+ ru.mirea.makarov.accelerometer.BuildConfig
+ru/mirea/makarov/accelerometer/MainActivity.java
+ ru.mirea.makarov.accelerometer.MainActivity

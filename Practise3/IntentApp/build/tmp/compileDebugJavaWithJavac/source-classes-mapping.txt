@@ -1,0 +1,13 @@
+ru/mirea/makarov/practise3/MainActivity.java
+ ru.mirea.makarov.practise3.MainActivity
+ru/mirea/makarov/practise3/MainActivity2.java
+ ru.mirea.makarov.practise3.MainActivity2
+ ru.mirea.makarov.practise3.MainActivity2$1
+ru/mirea/makarov/practise3/SecondFragment.java
+ ru.mirea.makarov.practise3.SecondFragment
+ ru.mirea.makarov.practise3.SecondFragment$1
+ru/mirea/makarov/practise3/BuildConfig.java
+ ru.mirea.makarov.practise3.BuildConfig
+ru/mirea/makarov/practise3/FirstFragment.java
+ ru.mirea.makarov.practise3.FirstFragment
+ ru.mirea.makarov.practise3.FirstFragment$1

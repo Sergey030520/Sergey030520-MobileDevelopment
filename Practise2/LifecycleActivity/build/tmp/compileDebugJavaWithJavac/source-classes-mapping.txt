@@ -1,0 +1,4 @@
+ru/mirea/makarov/practise2/BuildConfig.java
+ ru.mirea.makarov.practise2.BuildConfig
+ru/mirea/makarov/practise2/MainActivity.java
+ ru.mirea.makarov.practise2.MainActivity

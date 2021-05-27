@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practise4.iml" filepath="$PROJECT_DIR$/.idea/modules/practise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/practise4.Thread.iml" filepath="$PROJECT_DIR$/.idea/modules/app/practise4.Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data_thread/practise4.data_thread.iml" filepath="$PROJECT_DIR$/.idea/modules/data_thread/practise4.data_thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loadermanger/practise4.loadermanger.iml" filepath="$PROJECT_DIR$/.idea/modules/loadermanger/practise4.loadermanger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/looper/practise4.looper.iml" filepath="$PROJECT_DIR$/.idea/modules/looper/practise4.looper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workmanager/practise4.workmanager.iml" filepath="$PROJECT_DIR$/.idea/modules/workmanager/practise4.workmanager.iml" />
+    </modules>
+  </component>
+</project>

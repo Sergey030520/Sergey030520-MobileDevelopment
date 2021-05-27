@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practise5.iml" filepath="$PROJECT_DIR$/.idea/modules/Practise5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accelerometer/Practise5.accelerometer.iml" filepath="$PROJECT_DIR$/.idea/modules/accelerometer/Practise5.accelerometer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Practise5.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Practise5.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/audiorecord/Practise5.audiorecord.iml" filepath="$PROJECT_DIR$/.idea/modules/audiorecord/Practise5.audiorecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera/Practise5.camera.iml" filepath="$PROJECT_DIR$/.idea/modules/camera/Practise5.camera.iml" />
+    </modules>
+  </component>
+</project>

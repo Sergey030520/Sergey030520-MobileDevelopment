@@ -1,0 +1,7 @@
+ru/mirea/makarov/looper/BuildConfig.java
+ ru.mirea.makarov.looper.BuildConfig
+ru/mirea/makarov/looper/MyLooper.java
+ ru.mirea.makarov.looper.MyLooper
+ ru.mirea.makarov.looper.MyLooper$1
+ru/mirea/makarov/looper/MainActivity.java
+ ru.mirea.makarov.looper.MainActivity

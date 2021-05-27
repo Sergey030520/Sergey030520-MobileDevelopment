@@ -1,0 +1,3 @@
+include ':httpurlconnection'
+include ':SocketConnection'
+rootProject.name = "practise7"

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/practise6.iml" filepath="$PROJECT_DIR$/.idea/modules/practise6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/practise6.Preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/app/practise6.Preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/internalfilestorage/practise6.internalfilestorage.iml" filepath="$PROJECT_DIR$/.idea/modules/internalfilestorage/practise6.internalfilestorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notebook/practise6.notebook.iml" filepath="$PROJECT_DIR$/.idea/modules/notebook/practise6.notebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/room/practise6.room.iml" filepath="$PROJECT_DIR$/.idea/modules/room/practise6.room.iml" />
+    </modules>
+  </component>
+</project>

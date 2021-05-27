@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button18"
+        android:layout_width="410dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:text="Первая кнопка"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.177" />
+
+    <Button
+        android:id="@+id/button20"
+        android:layout_width="415dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:text="Вторая кнопка"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.833"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button18"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="410dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:text="Третья кнопка"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button20"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/button22"
+        android:layout_width="410dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:text="Четвертая кнопка"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button21"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/button23"
+        android:layout_width="410dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:text="Пятая кнопка"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button22"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Button
+        android:id="@+id/button24"
+        android:layout_width="410dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:text="Шестая кнопка"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button23"
+        app:layout_constraintVertical_bias="0.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

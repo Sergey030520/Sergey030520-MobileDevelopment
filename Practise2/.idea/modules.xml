@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practise2.iml" filepath="$PROJECT_DIR$/.idea/modules/Practise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Practise2.LifecycleActivity.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Practise2.LifecycleActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dialog/Practise2.dialog.iml" filepath="$PROJECT_DIR$/.idea/modules/dialog/Practise2.dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intentfilter/Practise2.intentfilter.iml" filepath="$PROJECT_DIR$/.idea/modules/intentfilter/Practise2.intentfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiactivity/Practise2.multiactivity.iml" filepath="$PROJECT_DIR$/.idea/modules/multiactivity/Practise2.multiactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notificationapp/Practise2.notificationapp.iml" filepath="$PROJECT_DIR$/.idea/modules/notificationapp/Practise2.notificationapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/toastapp/Practise2.toastapp.iml" filepath="$PROJECT_DIR$/.idea/modules/toastapp/Practise2.toastapp.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+ru/mirea/makarov/intentfilter/BuildConfig.java
+ ru.mirea.makarov.intentfilter.BuildConfig
+ru/mirea/makarov/intentfilter/MainActivity.java
+ ru.mirea.makarov.intentfilter.MainActivity

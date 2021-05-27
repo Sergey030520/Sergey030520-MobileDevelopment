@@ -1,0 +1,8 @@
+ru/mirea/makarov/simplefragmentapp2/BlankFragment2.java
+ ru.mirea.makarov.simplefragmentapp2.BlankFragment2
+ru/mirea/makarov/simplefragmentapp2/BuildConfig.java
+ ru.mirea.makarov.simplefragmentapp2.BuildConfig
+ru/mirea/makarov/simplefragmentapp2/BlankFragment.java
+ ru.mirea.makarov.simplefragmentapp2.BlankFragment
+ru/mirea/makarov/simplefragmentapp2/MainActivity.java
+ ru.mirea.makarov.simplefragmentapp2.MainActivity

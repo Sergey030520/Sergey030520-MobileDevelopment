@@ -1,0 +1,6 @@
+ru/mirea/makarov/httpurlconnection/BuildConfig.java
+ ru.mirea.makarov.httpurlconnection.BuildConfig
+ru/mirea/makarov/httpurlconnection/MainActivity.java
+ ru.mirea.makarov.httpurlconnection.MainActivity
+ ru.mirea.makarov.httpurlconnection.MainActivity$1
+ ru.mirea.makarov.httpurlconnection.MainActivity$DownloadPageTask

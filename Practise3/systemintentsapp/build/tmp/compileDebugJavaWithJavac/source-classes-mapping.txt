@@ -1,0 +1,4 @@
+ru/mirea/makarov/systemintentsapp/BuildConfig.java
+ ru.mirea.makarov.systemintentsapp.BuildConfig
+ru/mirea/makarov/systemintentsapp/MainActivity.java
+ ru.mirea.makarov.systemintentsapp.MainActivity

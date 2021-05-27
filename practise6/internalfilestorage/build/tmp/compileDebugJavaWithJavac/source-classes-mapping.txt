@@ -1,0 +1,6 @@
+ru/mirea/makarov/internalfilestorage/BuildConfig.java
+ ru.mirea.makarov.internalfilestorage.BuildConfig
+ru/mirea/makarov/internalfilestorage/MainActivity.java
+ ru.mirea.makarov.internalfilestorage.MainActivity
+ ru.mirea.makarov.internalfilestorage.MainActivity$1
+ ru.mirea.makarov.internalfilestorage.MainActivity$1$1

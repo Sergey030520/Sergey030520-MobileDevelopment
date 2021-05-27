@@ -1,0 +1,4 @@
+ru/mirea/makarov/myapplication/BuildConfig.java
+ ru.mirea.makarov.myapplication.BuildConfig
+ru/mirea/makarov/myapplication/MainActivity.java
+ ru.mirea.makarov.myapplication.MainActivity

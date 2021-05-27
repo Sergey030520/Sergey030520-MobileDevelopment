@@ -1,0 +1,4 @@
+ru/mirea/makarov/audiorecord/BuildConfig.java
+ ru.mirea.makarov.audiorecord.BuildConfig
+ru/mirea/makarov/audiorecord/MainActivity.java
+ ru.mirea.makarov.audiorecord.MainActivity

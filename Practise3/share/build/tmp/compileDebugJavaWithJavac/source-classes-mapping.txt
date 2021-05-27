@@ -1,0 +1,4 @@
+ru/mirea/makarov/share/BuildConfig.java
+ ru.mirea.makarov.share.BuildConfig
+ru/mirea/makarov/share/MainActivity.java
+ ru.mirea.makarov.share.MainActivity

@@ -1,0 +1,2 @@
+ru/mirea/makarov/toastapp/ExampleUnitTest.java
+ ru.mirea.makarov.toastapp.ExampleUnitTest

@@ -1,0 +1,13 @@
+ru/mirea/makarov/multiactivity/FirstFragment.java
+ ru.mirea.makarov.multiactivity.FirstFragment
+ ru.mirea.makarov.multiactivity.FirstFragment$1
+ru/mirea/makarov/multiactivity/BuildConfig.java
+ ru.mirea.makarov.multiactivity.BuildConfig
+ru/mirea/makarov/multiactivity/SecondFragment.java
+ ru.mirea.makarov.multiactivity.SecondFragment
+ ru.mirea.makarov.multiactivity.SecondFragment$1
+ru/mirea/makarov/multiactivity/SecondActivity.java
+ ru.mirea.makarov.multiactivity.SecondActivity
+ ru.mirea.makarov.multiactivity.SecondActivity$1
+ru/mirea/makarov/multiactivity/MainActivity.java
+ ru.mirea.makarov.multiactivity.MainActivity

@@ -1,0 +1,6 @@
+ru/mirea/makarov/workmanager/UploadWorker.java
+ ru.mirea.makarov.workmanager.UploadWorker
+ru/mirea/makarov/workmanager/BuildConfig.java
+ ru.mirea.makarov.workmanager.BuildConfig
+ru/mirea/makarov/workmanager/MainActivity.java
+ ru.mirea.makarov.workmanager.MainActivity

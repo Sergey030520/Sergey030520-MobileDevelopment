@@ -1,0 +1,4 @@
+ru/mirea/makarov/camera/MainActivity.java
+ ru.mirea.makarov.camera.MainActivity
+ru/mirea/makarov/camera/BuildConfig.java
+ ru.mirea.makarov.camera.BuildConfig

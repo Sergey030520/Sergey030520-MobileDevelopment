@@ -1,0 +1,49 @@
+ru/mirea/makarov/mireaproject1/SensorStatusFragment.java
+ ru.mirea.makarov.mireaproject1.SensorStatusFragment
+ru/mirea/makarov/mireaproject1/CreateImageFragment.java
+ ru.mirea.makarov.mireaproject1.CreateImageFragment
+ru/mirea/makarov/mireaproject1/PlayerService.java
+ ru.mirea.makarov.mireaproject1.PlayerService
+ru/mirea/makarov/mireaproject1/History.java
+ ru.mirea.makarov.mireaproject1.History
+ru/mirea/makarov/mireaproject1/ui/home/HomeFragment.java
+ ru.mirea.makarov.mireaproject1.ui.home.HomeFragment
+ ru.mirea.makarov.mireaproject1.ui.home.HomeFragment$1
+ru/mirea/makarov/mireaproject1/CalculatorFragment.java
+ ru.mirea.makarov.mireaproject1.CalculatorFragment
+ru/mirea/makarov/mireaproject1/RecordService.java
+ ru.mirea.makarov.mireaproject1.RecordService
+ru/mirea/makarov/mireaproject1/AudioRecordFragment.java
+ ru.mirea.makarov.mireaproject1.AudioRecordFragment
+ru/mirea/makarov/mireaproject1/ui/SimpleWebViewClientImpl.java
+ ru.mirea.makarov.mireaproject1.ui.SimpleWebViewClientImpl
+ru/mirea/makarov/mireaproject1/BrouserFragment.java
+ ru.mirea.makarov.mireaproject1.BrouserFragment
+ru/mirea/makarov/mireaproject1/Mathematics.java
+ ru.mirea.makarov.mireaproject1.Mathematics
+ru/mirea/makarov/mireaproject1/ui/gallery/GalleryFragment.java
+ ru.mirea.makarov.mireaproject1.ui.gallery.GalleryFragment
+ ru.mirea.makarov.mireaproject1.ui.gallery.GalleryFragment$1
+ru/mirea/makarov/mireaproject1/ui/gallery/GalleryViewModel.java
+ ru.mirea.makarov.mireaproject1.ui.gallery.GalleryViewModel
+ru/mirea/makarov/mireaproject1/ui/home/HomeViewModel.java
+ ru.mirea.makarov.mireaproject1.ui.home.HomeViewModel
+ru/mirea/makarov/mireaproject1/SettingsFragment.java
+ ru.mirea.makarov.mireaproject1.SettingsFragment
+ru/mirea/makarov/mireaproject1/ui/slideshow/SlideshowFragment.java
+ ru.mirea.makarov.mireaproject1.ui.slideshow.SlideshowFragment
+ ru.mirea.makarov.mireaproject1.ui.slideshow.SlideshowFragment$1
+ru/mirea/makarov/mireaproject1/BuildConfig.java
+ ru.mirea.makarov.mireaproject1.BuildConfig
+ru/mirea/makarov/mireaproject1/MusicFragment.java
+ ru.mirea.makarov.mireaproject1.MusicFragment
+ru/mirea/makarov/mireaproject1/HistoryAdapter.java
+ ru.mirea.makarov.mireaproject1.HistoryAdapter
+ ru.mirea.makarov.mireaproject1.HistoryAdapter$ViewHolder
+ru/mirea/makarov/mireaproject1/ui/slideshow/SlideshowViewModel.java
+ ru.mirea.makarov.mireaproject1.ui.slideshow.SlideshowViewModel
+ru/mirea/makarov/mireaproject1/HistoryFragment.java
+ ru.mirea.makarov.mireaproject1.HistoryFragment
+ru/mirea/makarov/mireaproject1/MainActivity.java
+ ru.mirea.makarov.mireaproject1.MainActivity
+ ru.mirea.makarov.mireaproject1.MainActivity$1

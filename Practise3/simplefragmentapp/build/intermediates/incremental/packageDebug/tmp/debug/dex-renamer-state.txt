@@ -1,0 +1,4 @@
+#Sat May 15 22:47:35 MSK 2021
+base.0=C\:\\Users\\Malip\\AndroidStudioProjects\\Practise3\\simplefragmentapp2\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

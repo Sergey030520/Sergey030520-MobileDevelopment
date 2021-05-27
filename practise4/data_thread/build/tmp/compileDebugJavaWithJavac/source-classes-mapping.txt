@@ -1,0 +1,8 @@
+ru/mirea/makarov/data_thread/BuildConfig.java
+ ru.mirea.makarov.data_thread.BuildConfig
+ru/mirea/makarov/data_thread/MainActivity.java
+ ru.mirea.makarov.data_thread.MainActivity
+ ru.mirea.makarov.data_thread.MainActivity$1
+ ru.mirea.makarov.data_thread.MainActivity$2
+ ru.mirea.makarov.data_thread.MainActivity$3
+ ru.mirea.makarov.data_thread.MainActivity$4

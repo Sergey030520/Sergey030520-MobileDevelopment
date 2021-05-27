@@ -1,0 +1,4 @@
+ru/mirea/makarov/layouttype/BuildConfig.java
+ ru.mirea.makarov.layouttype.BuildConfig
+ru/mirea/makarov/layouttype/MainActivity.java
+ ru.mirea.makarov.layouttype.MainActivity

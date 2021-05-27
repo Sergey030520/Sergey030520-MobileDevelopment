@@ -1,0 +1,15 @@
+ru/mirea/makarov/dialog/MyProgressDialogFragment.java
+ ru.mirea.makarov.dialog.MyProgressDialogFragment
+ru/mirea/makarov/dialog/MyDateDialogFragment.java
+ ru.mirea.makarov.dialog.MyDateDialogFragment
+ru/mirea/makarov/dialog/BuildConfig.java
+ ru.mirea.makarov.dialog.BuildConfig
+ru/mirea/makarov/dialog/MainActivity.java
+ ru.mirea.makarov.dialog.MainActivity
+ru/mirea/makarov/dialog/MyDialogFragment.java
+ ru.mirea.makarov.dialog.MyDialogFragment
+ ru.mirea.makarov.dialog.MyDialogFragment$1
+ ru.mirea.makarov.dialog.MyDialogFragment$2
+ ru.mirea.makarov.dialog.MyDialogFragment$3
+ru/mirea/makarov/dialog/MyTimeDialogFragment.java
+ ru.mirea.makarov.dialog.MyTimeDialogFragment

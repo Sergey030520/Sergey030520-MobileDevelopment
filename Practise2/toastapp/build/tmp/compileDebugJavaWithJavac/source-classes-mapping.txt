@@ -1,0 +1,4 @@
+ru/mirea/makarov/toastapp/BuildConfig.java
+ ru.mirea.makarov.toastapp.BuildConfig
+ru/mirea/makarov/toastapp/MainActivity.java
+ ru.mirea.makarov.toastapp.MainActivity
